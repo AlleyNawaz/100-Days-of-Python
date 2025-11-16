@@ -2,7 +2,7 @@
 
 This repository serves as the official project archive for my 100-day journey through a comprehensive Python curriculum. The program is designed to build mastery from fundamental principles to advanced, portfolio-ready applications.
 
-Each day's work, including all code, exercises, and project files, is organized into its respective folder (e.g., `Day-001`, `Day-002`, etc.).
+Each day's work, including all code, exercises, and project files, is organized into its respective folder (e.g., `Day-01`, `Day-02`, etc.).
 
 ---
 
